@@ -55,10 +55,10 @@ I'm always shipping, learning, and chasing better.
 
 <!-- BLOG-POST-LIST:START -->
 - [Custom Web Development: Why It Outperforms Template Websites](https://www.serbyte.net/insights/custom-development)
-- [AI-Powered Automation: Elevate Your Operations with Intelligent Workflows](https://www.serbyte.net/insights/ai-powered-automation-elevate-your-operations-with-intelligent-workflows)
+- [AI-Powered Automation: Elevate Your Operations with Intelligent Workflows](https://www.serbyte.net/insights/ai-automation)
 - [The Tao of Web Design: Embracing Adaptability in a Changing Medium](https://www.serbyte.net/insights/the-dao-of-web-design)
-- [Finding and Defining Your Brand Voice](https://www.serbyte.net/insights/finding-and-defining-your-brand-voice)
-- [What AI Chatbots Are and Why They Provide Value](https://www.serbyte.net/insights/what-ai-chatbots-are-and-why-they-provide-value)
+- [Finding and Defining Your Brand Voice](https://www.serbyte.net/insights/brand-voice)
+- [Next Edge: The Secret to Blazing-Fast Websites](https://www.serbyte.net/insights/next-edge-the-secret-to-blazing-fast-apps)
 <!-- BLOG-POST-LIST:END -->
 
 ---
