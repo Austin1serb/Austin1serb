@@ -36,14 +36,6 @@
 
 ---
 
-### ![How I Work](https://img.shields.io/badge/-How_I_Work-2B51EB?style=for-the-badge&logo=zapier&logoColor=white)
-
-I move fast, write clean, and use AI as an accelerator — not a crutch.  
-Prompt engineering, workflow automation, backend integrations — all dialed in.  
-No fluff, no gimmicks — just scalable systems that work.
-
----
-
 ### ![Why I Build](https://img.shields.io/badge/-Why_I_Build-F06292?style=for-the-badge&logo=heart&logoColor=white)
 
 Coding isn’t just my job — it’s what I do in my free time.  
