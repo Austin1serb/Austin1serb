@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  Full-stack developer • Code addict • Founder of <a href="https://www.serbyte.net">Serbyte Development</a>
+  Full-stack Engineer • Code addict • Founder of <a href="https://www.serbyte.net">Serbyte Development</a> & <a href="https://github.com/react-zero-ui/core">React Zero UI</a> 
 </p>
 
 ---
@@ -26,26 +26,18 @@
 
 ---
 
-### ![What I Build](https://img.shields.io/badge/-What_I_Build-7E57C2?style=for-the-badge&logo=codefactor&logoColor=white)
-
-- Full-stack web apps with custom admin dashboards & auth flows  
-- High-performance APIs with automated testing & error handling  
-- Frontend interfaces with modern UX, responsive design, and strong accessibility  
-- CMS platforms & SEO-powered content systems  
-- AI-powered tools that automate workflows and integrate seamlessly with backends
-
----
 
 ### ![Why I Build](https://img.shields.io/badge/-Why_I_Build-F06292?style=for-the-badge&logo=heart&logoColor=white)
 
-Coding isn’t just my job — it’s what I do in my free time.  
+Coding isn’t just my job - it’s what I do in my free time. even in my sleep.
 I'm always shipping, learning, and chasing better.
 
+<!--
 ---
 
 ### ![Blog](https://img.shields.io/badge/-Latest_Blog_Posts-26A69A?style=for-the-badge&logo=notion&logoColor=white)
 
-<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:START  
 - [Custom Web Development: Why It Outperforms Template Websites](https://www.serbyte.net/insights/custom-development)
 - [AI-Powered Automation: Elevate Your Operations with Intelligent Workflows](https://www.serbyte.net/insights/ai-automation)
 - [The Tao of Web Design: Embracing Adaptability in a Changing Medium](https://www.serbyte.net/insights/the-dao-of-web-design)
