@@ -6,14 +6,14 @@
 </h1>
 
 <p align="center">
-  Full-stack Engineer • Code addict • Founder of <a href="https://www.serbyte.net">Serbyte Development</a> & <a href="https://github.com/react-zero-ui/core">React Zero UI</a> 
+  Full-Stack Engineer • Code addict • Founder of <a href="https://www.serbyte.net">Serbyte Development</a> & <a href="https://github.com/react-zero-ui/core">React Zero UI</a> 
 </p>
 <p align="center">
-  <a href="mailto:info@serbyte.net">
+  <a href="mailto:owner@serbyte.net">
     <img src="https://img.shields.io/badge/Email-info@serbyte.net-2B51EB?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
-  <a href="https://www.serbyte.net">
-    <img src="https://img.shields.io/badge/Website-serbyte.net-5865F2?style=for-the-badge&logo=vercel&logoColor=white" />
+  <a href="https://www.austinserb.com">
+    <img src="https://img.shields.io/badge/Portfolio-austinserb.com-5865F2?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
